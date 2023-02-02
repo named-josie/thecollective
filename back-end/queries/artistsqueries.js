@@ -11,7 +11,7 @@ app.get('/', (request, response) => {
   }
 });
 //Get One 
-
+console.log('hello')
  
 
 // const createArtist = async (artist) => {
