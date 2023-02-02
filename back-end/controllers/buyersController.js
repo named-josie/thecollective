@@ -1,0 +1,1 @@
+const buyers = require('../json/buyersControllers.json')

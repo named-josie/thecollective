@@ -1,0 +1,34 @@
+{
+    "artists": [
+        {
+            "name":"Amy", 
+            "artist_name": "",
+            "city":"Brooklyn", 
+            "email":"artmeamy@gmail.com", 
+            "avatar":"https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasdictablanditiis.jpg", 
+            "is_available": "true" ,
+            "bio":"",
+            "id": "1"
+        },
+        {
+            "name":"Kobra", 
+            "artist_name": "",
+            "city":"Brooklyn", 
+            "email":"deli_graffiti@gmail.com", 
+            "avatar":"https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg", 
+            "is_available": "true" ,
+            "bio":"",
+            "id": "2"
+        },
+        {
+            "name":"Aqua", 
+            "artist_name": "",
+            "city":"NYC", 
+            "email":"aqualuvpaint@gmail.com", 
+            "avatar":"https://storage.googleapis.com/hatchways-app.appspot.com/assessments/data/frontend/images/voluptasautreprehenderit.jpg", 
+            "is_available": "true" ,
+            "bio":"",
+            "id": "3"
+        }
+    ]
+}
