@@ -12,7 +12,7 @@ export default function About() {
         express themselves in a way that the city and world can enjoy their
         work.
       </h4>
-      <h2>Lets Imagine a more Colorful city </h2>
+      <h2>Lets Imagine a more Colorful NYC! </h2>
     </div>
   );
 }
